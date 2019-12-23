@@ -1,0 +1,26 @@
+html {
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: darkolivegreen;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: bisque;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 100vh;
+  align-items: center;
+}
+
+#canvas {
+  /* margin-left: auto;
+  margin-right: auto; */
+}
