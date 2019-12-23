@@ -11,4 +11,4 @@ npm install
 npm start
 ```
 
-_note_: **work in progerss** as some bugs are apearing while running it.
+_note_: **work in progerss** as some bugs are appearing while running it.
